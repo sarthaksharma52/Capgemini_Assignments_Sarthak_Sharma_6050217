@@ -18,6 +18,7 @@ The assignments focus on core programming concepts, problem solving, and practic
 | Assignment No. | Topic | Description |
 |---------------|------|-------------|
 | 1 | Array | Program related to matrice using Java |
+| 2 | Sorting | Program related to sorting of objects using Java |
 
 > More assignments will be added as the training progresses.
 
