@@ -1,0 +1,29 @@
+ArrayList vs LinkedList Comparison
+
+Feature: Internal Structure
+ArrayList: Dynamic array (continuous memory)
+LinkedList: Doubly linked list (nodes connected by pointers)
+
+Feature: Access Time Complexity
+ArrayList: O(1) – fast random access using index
+LinkedList: O(n) – traversal required
+
+Feature: Insertion Time Complexity
+ArrayList:
+  - End: O(1) average
+  - Middle/Start: O(n) due to shifting
+LinkedList:
+  - Start/End: O(1) if node reference is known
+  - Middle: O(1) insertion but O(n) to reach the node
+
+Feature: Deletion Time Complexity
+ArrayList:
+  - End: O(1)
+  - Middle/Start: O(n) due to shifting
+LinkedList:
+  - Start/End: O(1) if node reference is known
+  - Middle: O(1) deletion but O(n) to reach the node
+
+Feature: Memory Usage
+ArrayList: Less memory (stores only data)
+LinkedList: More memory (stores data + next and previous pointers)
