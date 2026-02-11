@@ -1,4 +1,4 @@
-package Activity1Feb10;
+package Activities.Activity1Feb10;
 
 // ticket booking queue
 // Add 5 customers

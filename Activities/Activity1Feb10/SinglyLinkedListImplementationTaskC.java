@@ -1,4 +1,4 @@
-package Activity1Feb10;
+package Activities.Activity1Feb10;
 
 class Node{
     int data;
