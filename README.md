@@ -19,6 +19,11 @@ The assignments focus on core programming concepts, problem solving, and practic
 |---------------|------|-------------|
 | 1 | Array | Program related to matrice using Java |
 | 2 | Sorting | Program related to sorting of objects using Java |
+| 3 | JDBC Hibernate | Program related to Hibernate |
+| 4 | JPA Hibernate | Program related to JPA |
+| 5 | criteria Query | Program related to criteria Query |
+| 6 | Spring frameWork | Program related to Spring frameWork |
+
 
 > More assignments will be added as the training progresses.
 
