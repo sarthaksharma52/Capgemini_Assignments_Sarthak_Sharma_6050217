@@ -1,4 +1,4 @@
-package com.example.demo;
+package SpringAssignments.TraineeApi.src.main.java.com.example.demo;
 
 import java.util.List;
 import java.util.Scanner;

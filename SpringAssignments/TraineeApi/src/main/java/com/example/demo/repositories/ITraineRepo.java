@@ -1,4 +1,4 @@
-package com.example.demo.repositories;
+package SpringAssignments.TraineeApi.src.main.java.com.example.demo.repositories;
 
 import java.util.List;
 

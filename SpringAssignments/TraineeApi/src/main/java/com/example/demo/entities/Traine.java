@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+package SpringAssignments.TraineeApi.src.main.java.com.example.demo.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
